@@ -54,6 +54,11 @@ console.log("welcome 2017!");
 print("welcome 2017!")
 ```
 
+## Ruby
+```ruby
+puts "Hello, world!"
+```
+
 ## C#
 ```csharp
 using System;
