@@ -74,4 +74,8 @@ public static void main(String[] args)
     System.out.println("welcome 2017!");
   }
 }
-
+## PASCAL#
+program HelloWorld;
+begin
+  WriteLn('Hello, World');
+end.
