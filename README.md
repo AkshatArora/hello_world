@@ -26,6 +26,33 @@ PRINT "Hello, world!"​
 ## C
 #include 
 
+
+## hello_world in C
+``` C
+#include <stdio.h>
+int main(){
+printf("hello_world\nWelcome 2017!\n");
+}
+```
+## hello_world in c++
+```cpp
+#include<iostream>
+ using namespace std;
+  
+  int main(){
+  cout<< "hello world \n Welcome 2017!\n";
+ }
+```
+## JavaScript
+
+```javascript
+console.log("welcome 2017!");
+```
+## Python
+```python
+print("welcome 2017!")
+```
+
 int main(void)
 {
     puts("Hello, world!");
@@ -33,6 +60,7 @@ int main(void)
  
 ## C++
 #include 
+
 
 int main()
 {
@@ -158,4 +186,20 @@ alert(greeter.greet("World"));
 ```
 plz console.loge with 'hello, world'
 ```
+
+
+#include<iostream.h>
+void main()
+{
+ cout<<"Hello World!";
+}
+## hello world in c
+``` C
+#include<stdio.h>
+void main()
+{
+printf("hello world !");
+}
+```
+
 
