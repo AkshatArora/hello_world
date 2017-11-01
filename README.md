@@ -53,6 +53,13 @@ console.log("welcome 2017!");
 print("welcome 2017!")
 ```
 
+
+## Ruby
+```ruby
+puts "Hello, world!"
+```
+
+
 int main(void)
 {
     puts("Hello, world!");
@@ -68,7 +75,7 @@ int main()
 ";
     return 0;
 }
- 
+
 ## C#
 using System;
 class Program
