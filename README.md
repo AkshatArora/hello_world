@@ -6,35 +6,39 @@
 
 
 ## BACKBONE.js
-    var AppView = Backbone.View.extend({
-      el: '#container',
-      initialize: function(){
-        this.render();
-      },
-      render: function(){
-        this.$el.html("Hello World");
-      }
-    });
+```
+var AppView = Backbone.View.extend({
+  el: '#container',
+  initialize: function(){
+    this.render();
+  },
+  render: function(){
+    this.$el.html("Hello World");
+  }
+});
 
-    var appView = new AppView();
+var appView = new AppView();
+```
+
 ## BASH
+```
 echo "Hello World"
- 
+```
+
 ## BASIC
+```
 PRINT "Hello, world!"​
- 
+```
+
 ## C
-#include 
-
-
-## hello_world in C
 ``` C
 #include <stdio.h>
 int main(){
 printf("hello_world\nWelcome 2017!\n");
 }
 ```
-## hello_world in c++
+
+## C++
 ```cpp
 #include<iostream>
  using namespace std;
@@ -48,35 +52,19 @@ printf("hello_world\nWelcome 2017!\n");
 ```javascript
 console.log("welcome 2017!");
 ```
+
 ## Python
 ```python
 print("welcome 2017!")
 ```
-
 
 ## Ruby
 ```ruby
 puts "Hello, world!"
 ```
 
-
-int main(void)
-{
-    puts("Hello, world!");
-}
- 
-## C++
-#include 
-
-
-int main()
-{
-    std::cout << "Hello, world!
-";
-    return 0;
-}
-
 ## C#
+```
 using System;
 class Program
 {
@@ -85,22 +73,32 @@ class Program
         Console.WriteLine("Hello, world!");
     }
 }
- 
+```
+
 ## CLIPPER
+```
 ? "Hello World"
- 
+```
+
 ## COFFEESCRIPT
+```
 console.log 'Hello, world!'
- 
+```
+
 ## DELPHI
+```
 program HelloWorld;
 begin
   Writeln('Hello, world!');
 end.
- 
+```
+
 ## HTML
- Hello World!
+``` 
+Hello World!
+```
 ## JAVA
+```
 import javax.swing.JFrame;  //Importing class JFrame
 import javax.swing.JLabel;  //Importing class JLabel
 public class HelloWorld {
@@ -113,26 +111,35 @@ public class HelloWorld {
         frame.setVisible(true);                //Showing frame
     }
 }
- 
-## javascript
-document.write('Hello, world!');
- 
+```
+
 ## JQUERY
+```
 $("body").append("Hello world!");
- 
+```
+
 ## JULIA
+```
 println("Hello world!")
- 
+```
+
 ## LOGO
+```
 print [Hello, world!]
+```
 
 # Markdown
+```
 Hello World
- 
+```
+
 ## MATLAB
+```
 disp('Hello, world!')
- 
+```
+
 ## OBJECTIVE-C
+```
 #import 
 #import 
 
@@ -142,44 +149,74 @@ int main(void)
 ");
     return 0;
 }
- 
+```
+
 ## PASCAL
+```
 program HelloWorld;
 begin
   WriteLn('Hello, world!');
 end.
- 
+```
+
 ## PERL 5
-print "Hello, world!
-";
- 
+```
+print "Hello, world!";
+```
+
 ## PHP
- <?php echo '<p>Hello World</p>'; ?>
- 
+```
+<?php echo '<p>Hello World</p>'; ?>
+```
+
 ## PROCESSING
+```
 void setup(){
   println("Hello, world!");
 }
+```
+
 ## PYTHON
+```python
 print "Hello, world!"
+```
+
+## PYTHON3
+```
+print ("Hello, world!")
+```
+
 ## R
-cat('Hello, world!
-')
+```
+cat('Hello, world!')
+```
+
 ## RUBY
+```
 puts "Hello, world!"
+```
+
 ## SWIFT
+```
 println("Hello, world!")
+```
+
 ## VBSCRIPT
+```
 MsgBox "Hello, World!"
+```
+
 ## VISUAL BASIC .NET
+```
 Module Module1
     Sub Main()
         Console.WriteLine("Hello, world!")
     End Sub
 End Module
-## XSLT
-      Hello World
+```
 
+## XSLT
+```
 let greeter = new Greeter("Hello");
 alert(greeter.greet("World"));
 ```
@@ -193,20 +230,3 @@ alert(greeter.greet("World"));
 ```
 plz console.loge with 'hello, world'
 ```
-
-
-#include<iostream.h>
-void main()
-{
- cout<<"Hello World!";
-}
-## hello world in c
-``` C
-#include<stdio.h>
-void main()
-{
-printf("hello world !");
-}
-```
-
-
