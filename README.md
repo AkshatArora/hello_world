@@ -43,6 +43,18 @@ printf("hello_world\nWelcome 2017!\n");
   cout<< "hello world \n Welcome 2017!\n";
  }
 ```
+## Java
+
+```java
+public class HelloWorld {
+
+    public static void main(String[] args) {
+        System.out.println("Hello World");
+    }
+
+}
+```
+
 ## JavaScript
 
 ```javascript
